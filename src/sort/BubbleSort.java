@@ -6,6 +6,7 @@ public class BubbleSort {
      try{    
             BufferedReader br = new BufferedReader(new FileReader("/Users/cairo.gulati/Desktop/testout3.txt"));    
              asd=br.readLine();  
+             br.close();
             return asd;    
   
             
